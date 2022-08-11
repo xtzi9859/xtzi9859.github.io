@@ -38,14 +38,14 @@ draft: false
 
 ### 車両
 
-{{< figure src="/img/csl/tram-chirpy.jpg ">}}
-
+{{<figure src="/img/csl/tram-chirpy.jpg" height="25%" width="25%">}}
 [Steam Workshop::Chirpy Tram](https://steamcommunity.com/sharedfiles/filedetails/?id=629209908) かっこいい路面電車
 
 ### 駅
-
+{{<figure src="/img/csl/tram-roundabout.jpg" height="25%" width="25%">}}
 [Steam Workshop::Tram roundabout](https://steamcommunity.com/sharedfiles/filedetails/?id=654968039) 路面電車の終点に使える
 
+{{<figure src="/img/csl/train-station-vikersund.jpg" height="25%" width="25%">}}
 [Steam Workshop::Vikersund Train Station](https://steamcommunity.com/sharedfiles/filedetails/?id=605328335) ノルウェーのVikersundっていう村にある駅
 
 [Steam Workshop::Train Station](https://steamcommunity.com/sharedfiles/filedetails/?id=541850201) プラットフォームだけの駅
