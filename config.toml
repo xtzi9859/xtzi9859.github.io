@@ -1,0 +1,6 @@
+baseURL = 'http://xtzi9859.github.io/'
+canonifyurls = true
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'Mainroad'
+publishDir = 'docs'
